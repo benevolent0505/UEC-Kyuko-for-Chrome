@@ -9,9 +9,9 @@ UEC 休講
 
 ## Screenshot
 
-## Requirement
-
 ![](http://cdn-ak.f.st-hatena.com/images/fotolife/m/miki_bene/20151028/20151028162425.png)
+
+## Requirement
 
 [Google Chrome](https://www.google.co.jp/chrome/browser/desktop/)
 
@@ -20,6 +20,7 @@ UEC 休講
 [UEC 休講](https://chrome.google.com/webstore/detail/uec-%E4%BC%91%E8%AC%9B/acakfpgbnikegioeelmigncmlkejgblf?utm_source=chrome-ntp-icon)
 
 ## Licence
+[Apache License 2.0](https://github.com/benevolent0505/UEC-Kyuko-for-Chrome/blob/master/LICENSE)
 
 ## Author
 
