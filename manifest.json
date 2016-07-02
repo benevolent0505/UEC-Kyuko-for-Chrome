@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "UEC 休講",
+    "version": "0.0.2",
+    "description": "UECの休講情報を最高にするアプリケーション",
+    "app": {
+        "background": {
+            "scripts": ["./app.js"]
+        }
+    },
+    "sandbox": {
+        "pages": ["./index.html"]
+    },
+    "icons": {
+        "16": "./img/ueckyuko16.png",
+        "48": "./img/ueckyuko48.png",
+        "128": "./img/ueckyuko128.png"
+    },
+    "permissions": [
+        "http://kyoumu.office.uec.ac.jp/kyuukou/kyuukou.html",
+        "storage"
+    ]
+}
